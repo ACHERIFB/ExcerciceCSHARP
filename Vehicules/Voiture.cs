@@ -24,6 +24,7 @@ namespace Vehicules
         }
 
         public Voiture(string nom, int prix):base (nom,prix)
+            //
         {
             
         }
